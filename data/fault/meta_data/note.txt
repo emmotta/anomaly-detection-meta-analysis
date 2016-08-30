@@ -1,0 +1,1 @@
+First 27 columns are features. Last 7, (28-34), are binary indicators of which class the point belongs to. (Multiclass repsonse over 7 columns, in other words).
