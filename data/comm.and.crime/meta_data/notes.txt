@@ -1,0 +1,1 @@
+First five columns are meta data and should be discarded. Last column, (128), is regression response. Several columns have missing values and should be discarded.
