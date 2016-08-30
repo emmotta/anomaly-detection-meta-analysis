@@ -1,0 +1,1 @@
+Last column, (9), is regression response. First column is factor that should be discarded.
